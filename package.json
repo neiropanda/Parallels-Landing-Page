@@ -1,0 +1,38 @@
+{
+  "name": "geekside",
+  "version": "1.0.0",
+  "description": "my first webProject for mainAcademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neiropanda/geekside.git"
+  },
+  "author": "Bekh Oleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neiropanda/geekside/issues"
+  },
+  "homepage": "https://github.com/neiropanda/geekside#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "browser-sync": "^2.26.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^6.0.0",
+    "swiper": "^4.4.6"
+  },
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
